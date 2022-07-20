@@ -1,8 +1,8 @@
 ## Hi I'm Luiz, a software engineering student
 <div align="center">
   <a href="https://github.com/luizGRL">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luizGRL&show_icons=true&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizGRL&layout=compact&langs_count=7&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizGRL&show_icons=true&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizGRL&layout=compact&langs_count=7&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3"/>
 </div>
   
   <div><br>
