@@ -18,10 +18,8 @@
   <img align="center" alt="Luiz-postgree" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
     ㅤㅤㅤㅤㅤㅤ
 </div>
-  
  <div style='margin-top:150px;'> 
-   <br>
-   ㅤㅤㅤㅤ
+   <br>ㅤㅤㅤ
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   ㅤ
    <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
