@@ -15,7 +15,7 @@
   <img align="center" alt="Luiz-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luiz-postgree" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-    ㅤㅤㅤㅤㅤㅤ
+<img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://github.com/LuizGRL/imagens/blob/main/ezgif-1-adfcf92791.gif">    ㅤㅤㅤㅤㅤㅤ
 </div>
  <div style='margin-top:150px;'> 
    <br>ㅤㅤㅤ
