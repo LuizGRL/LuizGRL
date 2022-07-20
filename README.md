@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/luizGRL">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luizGRL&show_icons=true&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3&include_all_commits=true&count_private=true"/>
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizGRL&layout=compact&langs_count=7&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizGRL&layout=compact&langs_count=7&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3"/>
 </div>
   
   <div><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Luiz-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luiz-postgree" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
     ㅤㅤㅤㅤㅤㅤ
-  <img align="center" alt="Luiz-pic" height="140" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/25/25645.png">    
+  <img align="center" alt="Luiz-pic" height="140" style="border-radius:50px;" src="">    
 </div>
   
  <div style='margin-top:150px;'> 
