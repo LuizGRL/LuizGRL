@@ -5,8 +5,7 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizGRL&layout=compact&langs_count=7&bg_color=110,00040D,191970,34204,302E41&hide_border=true&title_color=D3D9E9&text_color=D3D9E9&icon_color=6E8BB3"/>
 </div>
   
-  <div><br>
-  ㅤㅤㅤ
+  <div><br>ㅤㅤ
   <img align="center" alt="Luiz-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Luiz-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Luiz-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
